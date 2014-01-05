@@ -1,0 +1,25 @@
+{
+  "name": "git-server",
+  "version": "0.0.0",
+  "description": "Micro gitweb server",
+  "license": "MIT",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sergeyt/git-server.git"
+  },
+  "keywords": [
+    "git",
+    "gitweb",
+    "server"
+  ],
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "contributors": [
+    "Sergey Todyshev <stodyshev@gmail.com>"
+  ],
+  "dependencies": {
+    "gitweb": "~0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
